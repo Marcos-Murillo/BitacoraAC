@@ -1,0 +1,56 @@
+[33mcommit 5d5df65f35fdaafbc67de111a87957a9b2d968da[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Merge: 4b7f362 84c52fc
+Author: marcos <agamezmarcos@gmail.com>
+Date:   Tue Mar 25 21:11:25 2025 -0500
+
+    Primer commit del proyecto Next.js
+
+[33mcommit 4b7f3622eee5c6aa5c023d3b8dc0366d1767804a[m
+Author: marcos <agamezmarcos@gmail.com>
+Date:   Tue Mar 25 21:01:10 2025 -0500
+
+    bitacora corregida
+
+[33mcommit 84c52fcaff5643fdb0b58076c48e129f3bec6081[m
+Author: Marcos-Murillo <165429922+Marcos-Murillo@users.noreply.github.com>
+Date:   Tue Mar 25 16:26:05 2025 -0500
+
+    Update package.json
+
+[33mcommit 5442716cdda56f967febc14acd81b38bd0142eb2[m
+Merge: da143da 1f204fe
+Author: marcos <agamezmarcos@gmail.com>
+Date:   Tue Mar 25 16:15:19 2025 -0500
+
+    Merge branch 'main' of https://github.com/Marcos-Murillo/BitacoraAC
+
+[33mcommit da143da56ef5fe6c81c8acc2a0251f72d94569ae[m
+Author: marcos <agamezmarcos@gmail.com>
+Date:   Tue Mar 25 16:12:50 2025 -0500
+
+    Actualización de dependencias para solucionar conflictos
+
+[33mcommit 1f204fe9343232069b543341542b30e2472bbc9b[m
+Author: Marcos-Murillo <165429922+Marcos-Murillo@users.noreply.github.com>
+Date:   Tue Mar 25 15:49:22 2025 -0500
+
+    Update package.json
+
+[33mcommit 7a8f330f01ed8b057e77f4ab426d71ef8befe1fa[m
+Merge: 022d6f4 5407c41
+Author: marcos <agamezmarcos@gmail.com>
+Date:   Tue Mar 25 15:41:29 2025 -0500
+
+    Resueltos conflictos en README.md
+
+[33mcommit 022d6f45f6ec5a6155db984a17ea81f1c6cd760a[m
+Author: marcos <agamezmarcos@gmail.com>
+Date:   Tue Mar 25 14:52:27 2025 -0500
+
+    AC bitacora
+
+[33mcommit 5407c413b8f7896ab29f1fc687083b14a15bea6e[m
+Author: Marcos-Murillo <165429922+Marcos-Murillo@users.noreply.github.com>
+Date:   Tue Mar 25 14:23:15 2025 -0500
+
+    Initial commit
